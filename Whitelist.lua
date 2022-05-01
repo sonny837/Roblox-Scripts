@@ -1,5 +1,1 @@
-return = {
-"SpiwalOfficial";
-"Bejalt";
-"nsjkdjsuj";
-}
+"SpiwalOfficial" or "Bejalt" or "nsjkdjsuj"
